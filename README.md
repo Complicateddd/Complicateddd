@@ -1,9 +1,10 @@
 ### Hi there 👋
-### This is Fernando Roldán!
+### This is Complicateddd!
 
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Complicateddd and I am currently finishing my Applied Statistics Master degree at the Xi'an jiaotong university!  
 
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 #### 🔭 Things I am currently working on:
 - :rocket: Finish my Master Degree
