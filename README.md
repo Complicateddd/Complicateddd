@@ -1,9 +1,13 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Complicateddd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Complicateddd&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
 **Complicateddd/Complicateddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Complicateddd)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
