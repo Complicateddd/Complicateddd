@@ -1,10 +1,8 @@
-### Hi there 👋
-### This is Complicateddd!
-
-
-Welcome to my Github page! 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+### Hi there 👋 Welcome to my Github page!
 #### I am Shijie Li
+
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 - Currently finishing my Applied Statistics Master degree at the Xi'an jiaotong university!
 - 💬 Ask me about Python, linux and my projects on [1064440667@qq.com](mailto:1064440667@qq.com)
 - 🌱 Research interests in
