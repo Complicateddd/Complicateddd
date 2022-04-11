@@ -8,7 +8,6 @@
 - 🌱 Research interests in
 	- ⭐ Deep learning、Machine learning
 	- ⚡ Object Detection、Computer Vision
-	- ✏️ [LeetCode](https://leetcode-cn.com/u/complicated-2/)
 ### 🛠 Tech Stack
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
