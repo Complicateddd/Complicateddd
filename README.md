@@ -3,9 +3,12 @@
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- Currently finishing my Applied Statistics Master degree at the Xi'an jiaotong university!
-- 💬 Ask me about Python, linux and my projects on [lishijie481@gmail.com](mailto:lishijie481@gmail.com)
-- 🌱 Research interests in Deep learning、Object Detection、Computer Vision
+master's degree in applied statistics from Xi'an Jiaotong University and am currently working at Alibaba Group
+
+
+-  Finished my Applied Statistics Master degree at the Xi'an jiaotong university!
+-  Currently working at Alibaba Group
+-  Research interests in Deep learning、Object Detection、Computer Vision、Natural Language Understanding、Information retrieval
 ### 🛠 Tech Stack
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
