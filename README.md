@@ -5,7 +5,7 @@
 
 -  Finished my Applied Statistics Master degree at the Xi'an jiaotong university!
 -  Currently working at Alibaba Group
--  Research interests in Deep learning、Object Detection、Computer Vision、Natural Language Understanding、Information retrieval
+-  Research interests in Deep learning、Object Detection、Computer Vision、Information retrieval
 
 [![Complicateddd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Complicateddd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
